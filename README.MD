@@ -43,7 +43,7 @@ This AI-powered document generator is designed to create a corpus of documents o
 Run the script:
 
 ```
-python generate_documents.py
+python distillery.py
 ```
 
 Follow the prompts to:
