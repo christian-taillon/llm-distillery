@@ -104,7 +104,3 @@ The script logs its activities to a file in the `logs` directory. Each run creat
 ## Contributing
 
 Contributions to improve the tool or extend its capabilities are welcome. Please submit a pull request or open an issue to discuss proposed changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
