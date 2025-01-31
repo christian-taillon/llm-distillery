@@ -4,6 +4,12 @@
 
 This AI-powered document generator is designed to create a corpus of documents on a given topic, leveraging large language models (LLMs) to distill knowledge into a format suitable for training or fine-tuning smaller models. It serves as a platform for testing and comparing various Retrieval-Augmented Generation (RAG) solutions and configurations, as well as for knowledge distillation experiments.
 
+### ⚠️ Model Usage Restrictions ⚠️
+Certain AI model licenses and services restrict the use of their models or services for training or building other models. 
+- Meta's LLaMA model allows users to create other models.
+- Other providers like Open AI and Claude prohibit this practice in their terms of service, barring companies from using their models to create their own for-profit or even non-profit open-sourced models.
+- The LLaMA model's community license has limitations, as it cannot be used for revenue-generating purposes, and companies must obtain an enterprise license for such use cases.
+
 ## Features
 
 - Generate a topic title based on a user-provided prompt
